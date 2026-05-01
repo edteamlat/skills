@@ -1,0 +1,22 @@
+{
+  "name": "edteam-agent-skills",
+  "owner": {
+    "name": "EDteam developers",
+    "email": "contacto@ed.team"
+  },
+  "metadata": {
+    "description": "EDteam example skills",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "examples",
+      "description": "Collección de ejemplos de skills de los cursos de EDteam",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/movie-finder",
+      ]
+    }
+  ]
+}
