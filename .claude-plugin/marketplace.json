@@ -10,7 +10,7 @@
   },
   "plugins": [
     {
-      "name": "examples",
+      "name": "skill-movie-finder",
       "description": "Collección de ejemplos de skills de los cursos de EDteam",
       "source": "./",
       "strict": false,
