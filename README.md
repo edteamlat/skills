@@ -108,7 +108,7 @@ bash scripts/movies.sh find --id tt0816692 --source imdb_id
 ### Opción 1: Desde Claude Code (recomendado)
 
 ```bash
-/plugin marketplace add edteam/skills
+/plugin marketplace add edteamlat/skills
 /plugin install movie-finder@edteam-agent-skills
 ```
 
