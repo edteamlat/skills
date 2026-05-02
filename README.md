@@ -115,7 +115,7 @@ bash scripts/movies.sh find --id tt0816692 --source imdb_id
 ### Opción 2: Usando la herramienta skills.sh
 
 ```bash
-npx skills edteam/skills --skill movie-finder
+npx skills edteamlat/skills --skill movie-finder
 ```
 
 ## Cómo crear tu propio skill
